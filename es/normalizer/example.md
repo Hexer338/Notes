@@ -1,4 +1,5 @@
 Example usage of normalized field in aggregation
+Tested in Elasticsearch v5.5.0
 
 #### Mapping
 ```
